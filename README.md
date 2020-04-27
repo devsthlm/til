@@ -14,3 +14,4 @@ This github repo has a neat visualization what a "web developer" could learn. It
 ## Books
 
 * Team Topologies
+* An elegany puzzle
