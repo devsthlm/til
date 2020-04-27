@@ -3,6 +3,7 @@
 ## TILs
 
 * [Setting git variables](/setting_git_variables.md)
+* [3d printing](/3d_printing.md)
 
 
 ## Links
