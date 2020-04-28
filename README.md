@@ -4,7 +4,8 @@
 
 * [Setting git variables](/setting_git_variables.md)
 * [3d printing](/3d_printing.md)
-
+* [Terminal commands](/terminal_commands.md)
+* [Rhetoric](/rhetoric.md)
 
 ## Links
 
