@@ -16,3 +16,5 @@ This github repo has a neat visualization what a "web developer" could learn. It
 
 * Team Topologies
 * An elegany puzzle
+* Project to Product - Mik Kersten
+    * https://projecttoproduct.org/
