@@ -16,5 +16,7 @@ This github repo has a neat visualization what a "web developer" could learn. It
 
 * Team Topologies
 * An elegany puzzle
+
+* Fearless Change: Patterns for Introducing New Ideas - Linda Rising, Mary Lynn Manns
 * Project to Product - Mik Kersten
     * https://projecttoproduct.org/
