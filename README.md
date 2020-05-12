@@ -6,6 +6,7 @@
 * [3d printing](/3d_printing.md)
 * [Terminal commands](/terminal_commands.md)
 * [Rhetoric](/rhetoric.md)
+* [Sifon](/sifon.md)
 
 ## Links
 

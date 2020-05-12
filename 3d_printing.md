@@ -12,6 +12,8 @@ A slicer converts a 3d drawing to instructions for a printer to print in layers.
 
 pruceslicer is one tool.
 
+### File formats
+
 ### filament types
 
 #### PETG
