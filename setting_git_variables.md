@@ -16,3 +16,6 @@ and then overrun them locally in a repo by not using the global flag.
 ```git config user.name "my other name"```  
 ```git config user.email "my.other.name@email.com"```  
 
+## git variables to set
+
+```git config --global core.editor code```
