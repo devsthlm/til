@@ -19,5 +19,8 @@ This github repo has a neat visualization what a "web developer" could learn. It
 * An elegany puzzle
 
 * Fearless Change: Patterns for Introducing New Ideas - Linda Rising, Mary Lynn Manns
+* Nudge - 
+* "Brag! - The art of tooting your own horn without blowing it" - Peggy Klaus
+
 * Project to Product - Mik Kersten
     * https://projecttoproduct.org/

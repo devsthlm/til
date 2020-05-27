@@ -18,4 +18,8 @@ and then overrun them locally in a repo by not using the global flag.
 
 ## git variables to set
 
-```git config --global core.editor code```
+Set editor and wait for editor to return (i.e. for you to write a commit message and save)
+```git config --global core.editor "code --wait"```
+
+Edit variables in your editor
+```git config --global core.editor "code --wait"```
