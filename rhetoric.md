@@ -172,3 +172,22 @@ Some tools that can be used to make your message stick:
 * repetition - create a sense of rythm
 
 Prepare a meeting/message you want to convey by thinking through all these tools above and how you would use each of these for that instance. Use _one_, max two.
+
+## Making small talk
+
+1. Introduce yourself
+1. Make few context comments/break the ice
+    * only an icebreaker - conversation will dry out quickly
+1. Introduce a topic of depth
+    * get others to talk about themselves
+    * news, the conference tipic or talk
+1. Introduce another topic
+    * don't try to recycle rejected cycles
+1. Listen with verbal and non-verbal encouragers
+
+## Dealing with interrupters
+
+1. Make direct eye contact and keep talking
+1. Add a hand gesture
+1. Politely ask the interrupters to let you finish (a polite command, not a question). "Please, let me finish"
+
