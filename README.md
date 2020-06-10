@@ -24,3 +24,9 @@ This github repo has a neat visualization what a "web developer" could learn. It
 
 * Project to Product - Mik Kersten
     * https://projecttoproduct.org/
+
+
+## things to look at in more detail
+
+* https://untools.co/
+* https://www.usenix.org/sites/default/files/conference/protected-files/lisa19_maheshwari.pdf
