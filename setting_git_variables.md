@@ -3,6 +3,7 @@
 ## Problem
 
 I want to have a repo with different credentials than others.
+I can use ```git config --list``` to see which parameters are currently used.
 
 ## Solution
 

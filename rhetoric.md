@@ -191,3 +191,31 @@ Prepare a meeting/message you want to convey by thinking through all these tools
 1. Add a hand gesture
 1. Politely ask the interrupters to let you finish (a polite command, not a question). "Please, let me finish"
 
+## successful videoconferncing
+
+* mind your background
+    * books in the background
+    * lighten up. Use overhead lighting
+    * aim for the camera. (use a post-it)
+* unplug phone, computer prompts
+* sit up, don't swivel
+* test technology
+* check stable internet
+* use voice to it's fullest
+    * change tone
+    * repeat yourself
+    * sound natural
+    * focus on nonverbals (vocal pauses)
+* mind your distractions
+    * yawn, ticks, etc.
+* keep your image in check
+
+## influencing others
+
+> influencing is a campaign
+
+* plant seed
+* get input from key decision makers
+* adjust their plans
+* plant more seeds
+* make your ask
