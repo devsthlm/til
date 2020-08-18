@@ -219,3 +219,53 @@ Prepare a meeting/message you want to convey by thinking through all these tools
 * adjust their plans
 * plant more seeds
 * make your ask
+
+## Saying no
+
+1. I am willing to...
+1. "No"
+1. Reason for no
+1. I am willing to...
+
+## Giving constructive feedback
+
+50% of feedback is too general and does not contain enough constructive feedback.
+"Please boss me around"
+
+"What you said with such passion/power/energy.. Can you help me understand where that energy came from?" 
+
+* A feedback-friendly atmosphere starts with you.
+* Share you thoughts with someone after you have developed rapport and trust.
+* Let them know you have feedback to share (avoid unnannounced).
+* Timing is important. Be mindful of context.
+* Find a quiet time and place.
+* Descriptive, direct and targeted
+    * targeted - don't overwhelm
+* "I feel/think/..." and not "This is how it is"
+* In larger groups and forums - "Schysst eller tyst"
+
+## Speaking on no notice
+
+* impromptu speaking = mini presentation
+
+* take a deep breath
+* Answer in your own mind:
+    * What is the one think I want my listener to remember?
+    * Why should they care?
+* Find the _one_ themed message.
+* Practice impromptu speaking whenever you can
+* How would they benefit?
+* Relevant, focused and concise
+
+## Exploring Team Roles
+
+* Make sure important team roles are filled
+
+1. The encourager - "The cheerleader for the team"
+1. The gatekeeper - Making sure everyone in the team gets to speak and that minority voices are heard.
+1. The information seeker - Asks questions and gets everyones opinion out
+1. The contributor - Is willing to share oppinions
+1. The challenger - The devil's advocate
+1. The organizer - Keeps meeting agenda; keeps notes, books rooms, follow up. etc
+
+Make notes during a meeting of who does what. Do we fill the whole list? Show list to team if needed. Step in in missing roles yourself.
