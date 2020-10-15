@@ -4,7 +4,7 @@
 
 ### CAD
 * tinkerCAD
-* 
+* Fusion 360
 
 ### Slicer
 
@@ -12,7 +12,14 @@ A slicer converts a 3d drawing to instructions for a printer to print in layers.
 
 pruceslicer is one tool.
 
-### File formats
+### Other
+
+* meshmixer
+    * [video showing some support generation](https://www.youtube.com/watch?v=OXFKVmMwXCQ)
+* meshroom
+    * Photogrammetry
+
+## File formats
 
 ### filament types
 

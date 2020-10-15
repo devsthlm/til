@@ -269,3 +269,114 @@ Prepare a meeting/message you want to convey by thinking through all these tools
 1. The organizer - Keeps meeting agenda; keeps notes, books rooms, follow up. etc
 
 Make notes during a meeting of who does what. Do we fill the whole list? Show list to team if needed. Step in in missing roles yourself.
+
+## Preparing for an interview
+
+Prepare examples of how you contributed to success.
+
+STAR - Situation, Task, Activity, Result
+
+1. Explain situation and context
+1. Describe the task
+1. your role in the situation
+1. the positive results
+
+## communcating authentically as a leader
+
+> What is your natural communication style?
+
+* Emotional or reserved
+* humble or charismatic
+* facts or ideas
+* talk things through out loud or think before you speak
+
+Stay true to your style / core. Otherwise risk appearing as a phony.
+
+i.e. telling stories. Adapt your stories to the occasion but stay true to who you are.
+
+## Reducing your anxiety about public speaking
+
+Before the speach: 
+
+* train
+* vary your training
+* work through your mistakes (don't stop)
+* visualize - look, sound and feel confident. Visualize yourself in a successful "picture"
+* simulate
+* take two deep, full beaths
+
+Minutes before the speach
+* associate
+* focus inwards - find a quite place
+* power pose
+* focus outwards - if distraction helps you (music, talk to others, etc.)
+
+## Finding your best voice
+
+1. Find your natural voice
+1. Intonate for the occasion
+1. Use inflection and emphasis
+1. Articulate for success
+
+> To find your natural pitch and feel how your body produces a sound.
+
+Formal
+informal
+playful
+somber
+ironic
+
+## Communicating with accuracy
+
+1. Have an attitude of accuracy. You must want to find problems.
+    * Don't rush to finish
+1. Add some time between writing and proofing
+1. Proofread with minimal distractions
+1. Focus your eyes and attention
+1. Change the way the document appears
+1. Use a spelling and grammar check but don't rely on it.
+1. Ask someone else to proofread.
+
+## Making a recommendation
+
+Business stakeholders feel about their business just like parents to kids. They know things aren't great but are not open to critique.
+
+Tread lightly
+
+* use facts
+* avoid judgmental language
+
+Use facts and gentle words:
+
+* Not "antiquated", "14 years old"
+* Not "Boring" -> "lack of ..."
+
+"What, Why, How"
+
+* _What_ is the recommendation?
+* _Why_ is this a good suggestion?
+* _How_ can this be implemented?
+
+Start with facts and follow up with making you case.
+
+## Communicating credibly
+
+Must be subject matter expert. Must dress accordingly. Communicate correctly. 
+
+How to communicate
+
+* Use declarative statements rather than questions. (provide information)
+* provide info > seek info
+
+* Examples 
+    * "This plan will work" vs. "don't you think this plan will work"
+    * "Do you want me to tell you more" vs. "Let me tell you more"
+    * "Give me an estimate" vs "Would you give me an estimate?"
+
+Go through what you might say before a situation where you will have to have credibility. Change from questions ot statements.
+
+## Communicating change
+
+1. Take out the ambiguity. The unknown is scary.
+1. Shrink the change. 
+1. Point to the positives.
