@@ -25,29 +25,29 @@ pruceslicer is one tool.
 
 #### PETG
 
-Strength & Rigid
-Temperature resistant
-Durable & Tough
-Easy to print
-Low warping
+* Strength & Rigid
+* Temperature resistant
+* Durable & Tough
+* Easy to print
+* Low warping
 
 PETG is one of the most commonly used filaments. It is an excellent choice for printing mechanically stressed parts. Compared to PLA, it is more heat resistant, more flexible and less brittle.
 
 ####  PLA
 
-Brittle 
-Easy to print
-Hard and tough
-Low warping
+* Brittle 
+* Easy to print
+* Hard and tough
+* Low warping
 
 PLA is the most commonly used filament. It’s a very strong, easy to print and biodegradable material. The perfect choice for printing large objects thanks to its low thermal expansion (with little to no warping) and for printing tiny parts because of its low melting temperature
 
 #### ASA
 
-Can be smoothed
-Tough
-Recyclable
-UV stable
-High temperature resistance
+* Can be smoothed
+* Tough
+* Recyclable
+* UV stable
+* High temperature resistance
 
 ASA can be considered a true successor to ABS. Compared to ABS, it’s UV stable, it doesn’t suffer from shrinking so badly and the fumes produced are much less noticeable.

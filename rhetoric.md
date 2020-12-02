@@ -380,3 +380,37 @@ Go through what you might say before a situation where you will have to have cre
 1. Take out the ambiguity. The unknown is scary.
 1. Shrink the change. 
 1. Point to the positives.
+
+## Making decisions differently: Head vs. heart
+
+Be aware of what kind of decision maker you are trying to influence.
+
+### Head/logic decision makers
+
+* Analytical
+* Evaluative
+* Direct
+
+Calm, thoughtful and effective
+
+#### how to communicate with logic people:
+
+* Be objective
+* Be factual. Avoid "I feel", "I said"
+* Share evidence
+* Be structured in delivery
+
+### Heart decision makers
+
+* Contextual
+* Empathetic
+* Thorough
+
+Collaborative environments. Harmony.
+
+#### how to communicate with heart people:
+
+* start positve
+* show appreciation
+* establish rapport
+* focus on common values
